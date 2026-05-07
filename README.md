@@ -1,4 +1,4 @@
-<img width="934" height="525" alt="Screenshot 2026-05-07 151225" src="https://github.com/user-attachments/assets/2e5f87b1-53ff-4a0a-8eb9-6209d6f21ff6" />
+<img width="971" height="533" alt="Screenshot 2026-05-07 151325" src="https://github.com/user-attachments/assets/f7916cea-d0d3-4650-91c6-65088bb7ebc2" />
 
 # 🎧 Ambient Chaos
 
