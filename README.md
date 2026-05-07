@@ -1,3 +1,5 @@
+<img width="934" height="525" alt="Screenshot 2026-05-07 151225" src="https://github.com/user-attachments/assets/2e5f87b1-53ff-4a0a-8eb9-6209d6f21ff6" />
+
 # 🎧 Ambient Chaos
 
 Ein interaktiver Ambient-Sound-Mixer – mehrere Umgebungsgeräusche können gleichzeitig abgespielt und unabhängig voneinander in der Lautstärke gesteuert werden.
